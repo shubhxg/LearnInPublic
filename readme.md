@@ -1,5 +1,4 @@
-# ![icons8-twitter-squared-48](https://github.com/shubhsharma19/LearnInPublic/assets/69891912/8ceed965-7485-42f1-922b-4a57ce0330d6) Twitter latest to oldest posts 
-
+# Learn in Public
 
 |Index| Description | Content Source Link |
 |:--:|:--------------:|:------------------:|
