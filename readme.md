@@ -2,6 +2,7 @@
 
 |Index| Description | Content Source Link |
 |:--:|:--------------:|:------------------:|
+|29 May|Thread on API, Queries and CRUD| [open](https://twitter.com/shubhstwt/status/1663191807424098304?s=20)
 |27 May|Got Swags from Altogic 💜|[open](https://twitter.com/shubhstwt/status/1662370520967553025?s=20)
 |25 May|Rest API Explained 🧵|[open](https://twitter.com/shubhstwt/status/1661725150973419521?s=20)
 |24 May|How to learn Git: Git your hands dirty 🧵|[open](https://twitter.com/shubhstwt/status/1661415984224432128?s=20)
