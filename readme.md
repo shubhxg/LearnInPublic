@@ -2,6 +2,7 @@
 
 |Index| Description | Content Source Link |
 |:--:|:--------------:|:------------------:|
+|4 June|Class 08 of #100devs ✅| [open](https://twitter.com/shubhstwt/status/1665297396358688768?s=20)
 |29 May|Thread on API, Queries and CRUD| [open](https://twitter.com/shubhstwt/status/1663191807424098304?s=20)
 |27 May|Got Swags from Altogic 💜|[open](https://twitter.com/shubhstwt/status/1662370520967553025?s=20)
 |25 May|Rest API Explained 🧵|[open](https://twitter.com/shubhstwt/status/1661725150973419521?s=20)
