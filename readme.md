@@ -1,7 +1,9 @@
 # Learn in Public
 
 |Index| Description | Content Source Link |
-|:--:|:--------------:|:------------------:|
+|:--:|:-------------:|:------------------:|
+|12 June|Coffee chat with Shreya ☕|[open](https://twitter.com/shubhstwt/status/1668291684130758656?s=20)
+|12 June|Flexbox Basics Thread 🧵|[open](https://twitter.com/shubhstwt/status/1668213946455822337?s=20)
 |10 June|Git Tip ✅ |[open](https://twitter.com/shubhstwt/status/1667455548672069632?s=20)
 |9 June|Git Tip ✅|[open](https://twitter.com/shubhstwt/status/1667080357433454592?s=20)
 |8 June|Start your tech journey with this thread 🧵 |[open](https://twitter.com/shubhstwt/status/1666789557021581314)
@@ -14,7 +16,7 @@
 |24 May|JavaScript Starting Thread 🧵|[open](https://twitter.com/shubhstwt/status/1661267275679412224?s=20)
 |19 May|Won the Apple Airpods 🏆|[open](https://twitter.com/shubhstwt/status/1659537318863335424?s=20)
 |14 May|Please don't ask such questions! Instead ask these 🧵|[open](https://twitter.com/shubhstwt/status/1657793720564199424?s=20)
-|16 May|How to find a mentor for you and how to grow your career in tech 🧵|[open](https://twitter.com/shubhstwt/status/1658503972511170561?s=20)
+|16 May|How to find a mentor for you in tech 🧵|[open](https://twitter.com/shubhstwt/status/1658503972511170561?s=20)
 |12 May|Basics Git Commands 🧵|[open](https://twitter.com/shubhstwt/status/1657039535836938240?s=20)
 |11 May|Guide to write quality tech articles 📖|[open](https://twitter.com/shubhstwt/status/1656533669421662208?s=20)
 |04 May|Dailydev gift 🎁|[open](https://twitter.com/shubhstwt/status/1654006694362611712?s=20)
