@@ -15,6 +15,7 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------:|:------------------:|
+  |15 June|Homework of #100devs ✅ class - Level Ground|[open](https://twitter.com/shubhstwt/status/1669340124612812803?s=20)
   |12 June|Coffee chat with Shreya ☕|[open](https://twitter.com/shubhstwt/status/1668291684130758656?s=20)
   |12 June|Flexbox Basics Thread 🧵|[open](https://twitter.com/shubhstwt/status/1668213946455822337?s=20)
   |10 June|Git Tip ✅ |[open](https://twitter.com/shubhstwt/status/1667455548672069632?s=20)
