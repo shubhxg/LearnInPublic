@@ -15,6 +15,7 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------:|:------------------:|
+  |18 June|Father's day website created by me|[open](https://twitter.com/shubhstwt/status/1670367904381157376?s=20)
   |15 June|Homework of #100devs ✅ class - Level Ground|[open](https://twitter.com/shubhstwt/status/1669340124612812803?s=20)
   |12 June|Coffee chat with Shreya ☕|[open](https://twitter.com/shubhstwt/status/1668291684130758656?s=20)
   |12 June|Flexbox Basics Thread 🧵|[open](https://twitter.com/shubhstwt/status/1668213946455822337?s=20)
