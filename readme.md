@@ -15,15 +15,16 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------:|:------------------:|
+  |21 June|Git Foundations Article 📑| [open](https://twitter.com/shubhstwt/status/1671479207174758400?s=20)
   |18 June|Father's day website created by me|[open](https://twitter.com/shubhstwt/status/1670367904381157376?s=20)
   |15 June|Homework of #100devs ✅ class - Level Ground|[open](https://twitter.com/shubhstwt/status/1669340124612812803?s=20)
   |12 June|Coffee chat with Shreya ☕|[open](https://twitter.com/shubhstwt/status/1668291684130758656?s=20)
   |12 June|Flexbox Basics Thread 🧵|[open](https://twitter.com/shubhstwt/status/1668213946455822337?s=20)
   |10 June|Git Tip ✅ |[open](https://twitter.com/shubhstwt/status/1667455548672069632?s=20)
-  |9 June|Git Tip ✅|[open](https://twitter.com/shubhstwt/status/1667080357433454592?s=20)
-  |8 June|Start your tech journey with this thread 🧵 |[open](https://twitter.com/shubhstwt/status/1666789557021581314)
-  |6 June|Contributed to Supabase 💚|[open](https://twitter.com/shubhstwt/status/1665943672519553028?s=20)
-  |4 June|Class 08 of #100devs ✅| [open](https://twitter.com/shubhstwt/status/1665297396358688768?s=20)
+  |09 June|Git Tip ✅|[open](https://twitter.com/shubhstwt/status/1667080357433454592?s=20)
+  |08 June|Start your tech journey with this thread 🧵 |[open](https://twitter.com/shubhstwt/status/1666789557021581314)
+  |06 June|Contributed to Supabase 💚|[open](https://twitter.com/shubhstwt/status/1665943672519553028?s=20)
+  |04 June|Class 08 of #100devs ✅| [open](https://twitter.com/shubhstwt/status/1665297396358688768?s=20)
   |29 May|Thread on API, Queries and CRUD| [open](https://twitter.com/shubhstwt/status/1663191807424098304?s=20)
   |27 May|Got Swags from Altogic 💜|[open](https://twitter.com/shubhstwt/status/1662370520967553025?s=20)
   |25 May|Rest API Explained 🧵|[open](https://twitter.com/shubhstwt/status/1661725150973419521?s=20)
