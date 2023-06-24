@@ -15,6 +15,8 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------:|:------------------:|
+  |23 June|Shared my knowledge on flexbox in community event 📢 |[open](https://twitter.com/shubhstwt/status/1672266478832488454?s=20)
+  |22 June|Accessible Rich Internet Applications Explained 🧵|[open](https://twitter.com/shubhstwt/status/1671838941916581891?s=20)
   |21 June|Git Foundations Article 📑| [open](https://twitter.com/shubhstwt/status/1671479207174758400?s=20)
   |18 June|Father's day website created by me|[open](https://twitter.com/shubhstwt/status/1670367904381157376?s=20)
   |15 June|Homework of #100devs ✅ class - Level Ground|[open](https://twitter.com/shubhstwt/status/1669340124612812803?s=20)
