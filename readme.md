@@ -15,6 +15,7 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------:|:------------------:|
+  |28 June|Let's talk about Flexbox 📽|[open](https://youtu.be/7PdGLKEDLtE)
   |23 June|Shared my knowledge on flexbox in community event 📢 |[open](https://twitter.com/shubhstwt/status/1672266478832488454?s=20)
   |22 June|Accessible Rich Internet Applications Explained 🧵|[open](https://twitter.com/shubhstwt/status/1671838941916581891?s=20)
   |21 June|Git Foundations Article 📑| [open](https://twitter.com/shubhstwt/status/1671479207174758400?s=20)
