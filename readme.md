@@ -2,8 +2,11 @@
 
 ![learninpublic](https://github.com/shubhsharma19/LearnInPublic/assets/69891912/d72e8f06-1291-47d4-a094-ee841ecc6e33)
 
-> Banner created using : https://excalidraw.com/
+<div align="center">
+  Banner created using: https://excalidraw.com/
+</div>
 
+<br>
 
 <div align="center">
   
@@ -14,7 +17,10 @@
 <div align="center">
   
   |Index| Description | Content Source Link |
-  |:--:|:-------------:|:------------------:|
+  |:--:|:-------------|:------------------:|
+  |10 July|Tips to grow organically on Twitter🧵|[open](https://twitter.com/shubhstwt/status/1678442884335300609?s=20)
+  |07 July|Tshirt by Unleash got delivered 👕|[open](https://twitter.com/shubhstwt/status/1677246406644617221?s=20)
+  |07 July|Roadmap for Frontend ✅|[open](https://twitter.com/shubhstwt/status/1677337002969276417?s=20)
   |03 July|Clone of TechCrunch Website with HTML, CSS|[open](https://twitter.com/shubhstwt/status/1675880795532308480?s=20)
   |28 June|Let's talk about Flexbox 📽|[open](https://youtu.be/7PdGLKEDLtE)
   |23 June|Shared my knowledge on flexbox in community event 📢 |[open](https://twitter.com/shubhstwt/status/1672266478832488454?s=20)
