@@ -18,6 +18,9 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |31 July|Source Clone homework ✅ #100devs homework|[open](https://twitter.com/shubhstwt/status/1686053040183296004?s=20)
+  |31 July|Pseudo-classes vs. Pseudo-elements 🧵|[open](https://twitter.com/shubhstwt/status/1685936756133351424?s=20)
+  |20 July|Gift from Unleash 🖱 🎁|[open](https://twitter.com/shubhstwt/status/1681962246107439104?s=20)
   |10 July|Tips to grow organically on Twitter🧵|[open](https://twitter.com/shubhstwt/status/1678442884335300609?s=20)
   |07 July|Tshirt by Unleash got delivered 👕|[open](https://twitter.com/shubhstwt/status/1677246406644617221?s=20)
   |07 July|Roadmap for Frontend ✅|[open](https://twitter.com/shubhstwt/status/1677337002969276417?s=20)
