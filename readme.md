@@ -18,6 +18,8 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |03 Aug|Scrimba Responsive Project 🐈|[open](https://twitter.com/shubhstwt/status/1687127002535567360?s=20)
+  |02 Aug|Coffee chat with Amaan ☕|[open](https://twitter.com/shubhstwt/status/1686786399226523648?s=20)
   |31 July|Source Clone homework ✅ #100devs homework|[open](https://twitter.com/shubhstwt/status/1686053040183296004?s=20)
   |31 July|Pseudo-classes vs. Pseudo-elements 🧵|[open](https://twitter.com/shubhstwt/status/1685936756133351424?s=20)
   |20 July|Gift from Unleash 🖱 🎁|[open](https://twitter.com/shubhstwt/status/1681962246107439104?s=20)
