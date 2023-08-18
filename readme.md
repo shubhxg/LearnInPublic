@@ -18,6 +18,9 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |18 Aug|Class 10 and 11 Completed of #100devs ✅|[open](https://twitter.com/shubhstwt/status/1692444913101906335?s=20)
+  |17 Aug|Attended Google Cloud Introduction session by Guru sir ☁|[open](https://twitter.com/shubhstwt/status/1692227639820574747?s=20)
+  |16 Aug|Coffee Chat with Vidya Sagar ☕|[open](https://twitter.com/shubhstwt/status/1691839029476827308?s=20)
   |03 Aug|Scrimba Responsive Project 🐈|[open](https://twitter.com/shubhstwt/status/1687127002535567360?s=20)
   |02 Aug|Coffee chat with Amaan ☕|[open](https://twitter.com/shubhstwt/status/1686786399226523648?s=20)
   |31 July|Source Clone homework ✅ #100devs homework|[open](https://twitter.com/shubhstwt/status/1686053040183296004?s=20)
