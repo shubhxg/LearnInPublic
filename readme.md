@@ -18,6 +18,7 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |20 Aug|Build an X Clone using HTML and CSS only|[open](https://twitter.com/shubhstwt/status/1692968496010015203?s=20)
   |18 Aug|Class 10 and 11 Completed of #100devs ✅|[open](https://twitter.com/shubhstwt/status/1692444913101906335?s=20)
   |17 Aug|Attended Google Cloud Introduction session by Guru sir ☁|[open](https://twitter.com/shubhstwt/status/1692227639820574747?s=20)
   |16 Aug|Coffee Chat with Vidya Sagar ☕|[open](https://twitter.com/shubhstwt/status/1691839029476827308?s=20)
