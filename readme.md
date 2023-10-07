@@ -18,9 +18,13 @@
   
   |Index| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |06 Oct|Leveraging Social Media for personal branding |[open](https://x.com/shubhstwt/status/1710339478727127173?s=20)
+  |03 Oct|Designing better developer experiences (DevEx)|[open](https://x.com/shubhstwt/status/1709253488876859902?s=20)
+  |02 Oct|Logitech Keyboard Gift by LiveCycle ⌨|[open](https://x.com/shubhstwt/status/1708898857646801393?s=20)
+  |25 Sept|Defensive Programming 🧵|[open](https://x.com/shubhstwt/status/1706261502477603203?s=20)
   |12 Sept|Class 13 of #100devs done ✅|[open](https://x.com/shubhstwt/status/1701549178726551853?s=20)
   |22 Aug|Class 12 of #100devs: Day 1 of JavaScript 🧵|[open](https://twitter.com/shubhstwt/status/1694030646459719994?s=20)
-  |20 Aug|Build an X Clone using HTML and CSS only|[open](https://twitter.com/shubhstwt/status/1692968496010015203?s=20)
+  |20 Aug|I Built an X Clone using HTML and CSS only|[open](https://twitter.com/shubhstwt/status/1692968496010015203?s=20)
   |18 Aug|Class 10 and 11 Completed of #100devs ✅|[open](https://twitter.com/shubhstwt/status/1692444913101906335?s=20)
   |17 Aug|Attended Google Cloud Introduction session by Guru sir ☁|[open](https://twitter.com/shubhstwt/status/1692227639820574747?s=20)
   |16 Aug|Coffee Chat with Vidya Sagar ☕|[open](https://twitter.com/shubhstwt/status/1691839029476827308?s=20)
