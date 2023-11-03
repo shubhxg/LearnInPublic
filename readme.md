@@ -16,8 +16,12 @@
 
 <div align="center">
   
-  |Index| Description | Content Source Link |
+  |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |31 Oct|Layout breakpoints in Bootstrap 🧵|[open](https://x.com/shubhstwt/status/1719410787041837279?s=20)
+  |14 Oct|Received hacktoberfest'23 Tree planting badge 🌳|[open](https://x.com/shubhstwt/status/1713116476750856331?s=20)
+  |10 Oct|Used Sass for improving code of X UI Clone that I made|[open](https://x.com/shubhstwt/status/1711789022568403303?s=20)
+  |07 Oct|Article on Scoutflo Atlas product|[open](https://shubhsharma19.hashnode.dev/discover-great-projects-this-hacktoberfest-with-scoutflo)
   |06 Oct|Leveraging Social Media for personal branding |[open](https://x.com/shubhstwt/status/1710339478727127173?s=20)
   |03 Oct|Designing better developer experiences (DevEx)|[open](https://x.com/shubhstwt/status/1709253488876859902?s=20)
   |02 Oct|Logitech Keyboard Gift by LiveCycle ⌨|[open](https://x.com/shubhstwt/status/1708898857646801393?s=20)
