@@ -18,6 +18,8 @@
   
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |17 Nov|Loki TVA Website Concept using HTML, SASS, JS|[open](https://x.com/shubhstwt/status/1725539070162686365?s=20)
+  |14 Nov|Working with Sass Blog 📝|[open](https://x.com/shubhstwt/status/1724417098271662579?s=20)
   |31 Oct|Layout breakpoints in Bootstrap 🧵|[open](https://x.com/shubhstwt/status/1719410787041837279?s=20)
   |14 Oct|Received hacktoberfest'23 Tree planting badge 🌳|[open](https://x.com/shubhstwt/status/1713116476750856331?s=20)
   |10 Oct|Used Sass for improving code of X UI Clone that I made|[open](https://x.com/shubhstwt/status/1711789022568403303?s=20)
