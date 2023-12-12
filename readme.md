@@ -18,6 +18,10 @@
   
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |12 Dec|Shallow copy vs. Deep copy 🧵|[open](https://x.com/shubhstwt/status/1734612573595861362?s=20)
+  |11 Dec|Stack vs. Heap memory 🧵|[open](https://x.com/shubhstwt/status/1734196512773837021?s=20)
+  |10 Dec|Cohort 2.0 Homework week-1 done ✅|[open](https://github.com/100xdevs-cohort-2/assignments/pull/272)
+  |08 Dec|Open graph protocols and more|[open](https://x.com/shubhstwt/status/1733011774633660546?s=20)
   |17 Nov|Loki TVA Website Concept using HTML, SASS, JS|[open](https://x.com/shubhstwt/status/1725539070162686365?s=20)
   |14 Nov|Working with Sass Blog 📝|[open](https://x.com/shubhstwt/status/1724417098271662579?s=20)
   |31 Oct|Layout breakpoints in Bootstrap 🧵|[open](https://x.com/shubhstwt/status/1719410787041837279?s=20)
