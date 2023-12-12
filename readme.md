@@ -15,6 +15,8 @@
 </div>
 
 <div align="center">
+
+  ### Note: Use `ctrl + click` to open links in a new tab.
   
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
