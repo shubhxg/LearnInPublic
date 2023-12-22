@@ -20,6 +20,14 @@
   
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |21 Dec|Learning JS - Day 21|[open](https://x.com/shubhstwt/status/1737886758745047258?s=20)
+  |20 Dec|Nullish Coalescing Operator in JavaScript 🤔|[open](https://x.com/shubhstwt/status/1737476363978760393?s=20)
+  |18 Dec|Learning JS - Day 18|[open](https://x.com/shubhstwt/status/1736836552507248988?s=20)
+  |16 Dec|Learning JS - Day 16|[open](https://x.com/shubhstwt/status/1736102915704754264?s=20)
+  |15 Dec|Learning JS - Day 15|[open](https://x.com/shubhstwt/status/1735715436384358703?s=20)
+  |15 Dec|Closures in JavaScript|[open](https://x.com/shubhstwt/status/1735598284972900371?s=20)
+  |14 Dec|Learning JS - Day 14|[open](https://x.com/shubhstwt/status/1735388806868820208?s=20)
+  |12 Dec|Learning JS - Day 12 👨‍💻|[open](https://x.com/shubhstwt/status/1734622340569235882?s=20)
   |12 Dec|Shallow copy vs. Deep copy 🧵|[open](https://x.com/shubhstwt/status/1734612573595861362?s=20)
   |11 Dec|Stack vs. Heap memory 🧵|[open](https://x.com/shubhstwt/status/1734196512773837021?s=20)
   |10 Dec|Cohort 2.0 Homework week-1 done ✅|[open](https://github.com/100xdevs-cohort-2/assignments/pull/272)
