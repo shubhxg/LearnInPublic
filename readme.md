@@ -20,6 +20,8 @@
   
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |29 Dec|Thread on JS thread while working with await|[open](https://x.com/shubhstwt/status/1740830521750610268?s=20)
+  |28 Dec|Thread on Promises 🧵|[open](https://x.com/shubhstwt/status/1740660983650267392?s=20)
   |25 Dec|Improved car game with movement and gear changing features 🚔|[open](https://x.com/shubhstwt/status/1739269414137274605?s=20)
   |23 Dec|Car game using DOM in JS|[open](https://x.com/shubhstwt/status/1738887783702569231?s=20)
   |21 Dec|Learning JS - Day 21|[open](https://x.com/shubhstwt/status/1737886758745047258?s=20)
