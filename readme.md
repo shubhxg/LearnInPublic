@@ -17,9 +17,17 @@
 <div align="center">
 
   ### Note: Use `ctrl + click` to open links in a new tab.
-  
+
+  ### Year 2024
+
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
+  |1 Jan|Day 32 of 100daysofcode: Reading and writing to the files using Nodejs Modules 🧵|[open](https://x.com/shubhstwt/status/1741871001863119343?s=20)
+
+  ### Year 2023
+  |Date| Description | Content Source Link |
+  |:--:|:-------------|:------------------:|
+  |31 Dec|Last post of 2023, saying byebye to 2023|[open](https://x.com/shubhstwt/status/1741449907037438118?s=20)
   |29 Dec|Thread on JS thread while working with await|[open](https://x.com/shubhstwt/status/1740830521750610268?s=20)
   |28 Dec|Thread on Promises 🧵|[open](https://x.com/shubhstwt/status/1740660983650267392?s=20)
   |25 Dec|Improved car game with movement and gear changing features 🚔|[open](https://x.com/shubhstwt/status/1739269414137274605?s=20)
