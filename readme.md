@@ -22,16 +22,23 @@
 
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
-  |1 Jan|Day 32 of 100daysofcode: Reading and writing to the files using Nodejs Modules 🧵|[open](https://x.com/shubhstwt/status/1741871001863119343?s=20)
+  |10 Jan|Day 39 & 40: Learned more about req, res, headers, rawheaders, http servers and stuff |[open](https://x.com/shubhstwt/status/1745136065860809206?s=20)
+  |9 Jan|Updated the Lazyvim theme to 0.2.0 Version with some improvements|[open](https://x.com/shubhstwt/status/1744637373584232840?s=20)
+  |8 Jan|Created a Lazyvim inspired VS Code theme |[open](https://x.com/shubhstwt/status/1744355236817277406?s=20)
+  |7 Jan|Day 37: Learned about npm modules, made a qrcode generator using npm modules. |[open](https://x.com/shubhstwt/status/1744008865497383312?s=20)
+  |4 Jan|Day 34 of #100daysofcode: Today I started learning Basics of Backend |[open](https://x.com/shubhstwt/status/1742957290435850535?s=20)
+  |3 Jan|Blog on Async programming |[open](https://x.com/shubhstwt/status/1742457261455495174?s=20)
+  |2 Jan|Day 33 of #100daysofcode: Completed easy, medium and hard assignments for week 2 of cohort | [open](https://x.com/shubhstwt/status/1742415468315672946?s=20)
+  |1 Jan|Day 32 of #100daysofcode: Reading and writing to the files using Nodejs Modules 🧵|[open](https://x.com/shubhstwt/status/1741871001863119343?s=20)
 
   ### Year 2023
   |Date| Description | Content Source Link |
   |:--:|:-------------|:------------------:|
   |31 Dec|Last post of 2023, saying byebye to 2023|[open](https://x.com/shubhstwt/status/1741449907037438118?s=20)
   |29 Dec|Thread on JS thread while working with await|[open](https://x.com/shubhstwt/status/1740830521750610268?s=20)
-  |28 Dec|Thread on Promises 🧵|[open](https://x.com/shubhstwt/status/1740660983650267392?s=20)
-  |25 Dec|Improved car game with movement and gear changing features 🚔|[open](https://x.com/shubhstwt/status/1739269414137274605?s=20)
-  |23 Dec|Car game using DOM in JS|[open](https://x.com/shubhstwt/status/1738887783702569231?s=20)
+  |28 Dec|Day 28: Thread on Promises 🧵|[open](https://x.com/shubhstwt/status/1740660983650267392?s=20)
+  |25 Dec|Day 25: Improved car game with movement and gear changing features 🚔|[open](https://x.com/shubhstwt/status/1739269414137274605?s=20)
+  |23 Dec|Day 23: Car game using DOM in JS|[open](https://x.com/shubhstwt/status/1738887783702569231?s=20)
   |21 Dec|Learning JS - Day 21|[open](https://x.com/shubhstwt/status/1737886758745047258?s=20)
   |20 Dec|Nullish Coalescing Operator in JavaScript 🤔|[open](https://x.com/shubhstwt/status/1737476363978760393?s=20)
   |18 Dec|Learning JS - Day 18|[open](https://x.com/shubhstwt/status/1736836552507248988?s=20)
