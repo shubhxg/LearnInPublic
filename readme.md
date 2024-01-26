@@ -20,8 +20,14 @@
 
   ### Year 2024
 
-  |Date| Description | Content Source Link |
+  |Date| Description | Source Link |
   |:--:|:-------------|:------------------:|
+  |25 Jan|Day 49: Middlewares, Global Catches|[open](https://x.com/shubhstwt/status/1750537916475166799?s=20)
+  |24 Jan|Day 48: Installed mongo and postgres, Revised async/await concepts|[open](https://x.com/shubhstwt/status/1750185654645055513?s=20)
+  |24 Jan|Async/Await Explanation 🧵|[open](https://x.com/shubhstwt/status/1750069519765438910?s=20)
+  |20 Jan|Day 46: Created a CRUD API in Express for Todo Lists |[open](https://x.com/shubhstwt/status/1748750323454193934?s=20)
+  |20 Jan|parseInt vs. Number() difference 🧵|[open](https://x.com/shubhstwt/status/1748429128909652026?s=20)
+  |16 Jan|Day 44: Filestructure in Backend code, RegEx, Backend Code Structure | [open](https://x.com/shubhstwt/status/1747637101288632760?s=20)
   |11 Jan|Day 41: Learned about parsing, handling different method requests in postman and more |[open](https://x.com/shubhstwt/status/1745488869997580314?s=20)
   |10 Jan|Day 39 & 40: Learned more about req, res, headers, rawheaders, http servers and stuff |[open](https://x.com/shubhstwt/status/1745136065860809206?s=20)
   |9 Jan|Updated the Lazyvim theme to 0.2.0 Version with some improvements|[open](https://x.com/shubhstwt/status/1744637373584232840?s=20)
