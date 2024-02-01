@@ -24,7 +24,7 @@
   |:--:|:-------------|:------------------:|
   |30 Jan|Day 54: Created an API for user signin using express, jwt and zod|[open](https://x.com/shubhstwt/status/1752758978076115292?s=20)
   |28 Jan|Day 52 & 53: Learned about Fetch APIs, Hashing, Encryption, JSON web tokens|[open](https://x.com/shubhstwt/status/1752353414988853628?s=20)
-  |27 Jan|Day 51: Completed assignments, global catches, custom middlewares, rate limiter for requests, etc.|[open](https://x.com/shubhstwt/status/1751661688984887551?s=20)
+  |27 Jan|Day 51: Global catches, custom middlewares, rate limiter for requests, etc.|[open](https://x.com/shubhstwt/status/1751661688984887551?s=20)
   |27 Jan|Day 50: Types of Middlewares, etc.|[open](https://x.com/shubhstwt/status/1751311054385398096?s=20)
   |25 Jan|Day 49: Middlewares, Global Catches|[open](https://x.com/shubhstwt/status/1750537916475166799?s=20)
   |24 Jan|Day 48: Installed mongo and postgres, Revised async/await concepts|[open](https://x.com/shubhstwt/status/1750185654645055513?s=20)
@@ -33,7 +33,7 @@
   |20 Jan|parseInt vs. Number() difference 🧵|[open](https://x.com/shubhstwt/status/1748429128909652026?s=20)
   |16 Jan|Day 44: Filestructure in Backend code, RegEx, Backend Code Structure | [open](https://x.com/shubhstwt/status/1747637101288632760?s=20)
   |11 Jan|Day 41: Parsing, handling method requests in postman and more |[open](https://x.com/shubhstwt/status/1745488869997580314?s=20)
-  |10 Jan|Day 39 & 40: Learned more about req, res, headers, rawheaders, http servers and stuff |[open](https://x.com/shubhstwt/status/1745136065860809206?s=20)
+  |10 Jan|Day 39 & 40: Req, Res, headers, rawheaders, http servers and stuff |[open](https://x.com/shubhstwt/status/1745136065860809206?s=20)
   |9 Jan|Updated the Lazyvim theme to 0.2.0 Version with some improvements|[open](https://x.com/shubhstwt/status/1744637373584232840?s=20)
   |8 Jan|Created a Lazyvim inspired VS Code theme |[open](https://x.com/shubhstwt/status/1744355236817277406?s=20)
   |7 Jan|Day 37: Learned about npm modules, made a qrcode generator using npm modules. |[open](https://x.com/shubhstwt/status/1744008865497383312?s=20)
