@@ -32,7 +32,7 @@
   |20 Jan|Day 46: Created a CRUD API in Express for Todo Lists |[open](https://x.com/shubhstwt/status/1748750323454193934?s=20)
   |20 Jan|parseInt vs. Number() difference 🧵|[open](https://x.com/shubhstwt/status/1748429128909652026?s=20)
   |16 Jan|Day 44: Filestructure in Backend code, RegEx, Backend Code Structure | [open](https://x.com/shubhstwt/status/1747637101288632760?s=20)
-  |11 Jan|Day 41: Learned about parsing, handling different method requests in postman and more |[open](https://x.com/shubhstwt/status/1745488869997580314?s=20)
+  |11 Jan|Day 41: Parsing, handling method requests in postman and more |[open](https://x.com/shubhstwt/status/1745488869997580314?s=20)
   |10 Jan|Day 39 & 40: Learned more about req, res, headers, rawheaders, http servers and stuff |[open](https://x.com/shubhstwt/status/1745136065860809206?s=20)
   |9 Jan|Updated the Lazyvim theme to 0.2.0 Version with some improvements|[open](https://x.com/shubhstwt/status/1744637373584232840?s=20)
   |8 Jan|Created a Lazyvim inspired VS Code theme |[open](https://x.com/shubhstwt/status/1744355236817277406?s=20)
