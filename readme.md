@@ -34,13 +34,13 @@
   |16 Jan|Day 44: Filestructure in Backend code, RegEx, Backend Code Structure | [open](https://x.com/shubhstwt/status/1747637101288632760?s=20)
   |11 Jan|Day 41: Parsing, handling method requests in postman and more |[open](https://x.com/shubhstwt/status/1745488869997580314?s=20)
   |10 Jan|Day 39 & 40: Req, Res, headers, rawheaders, http servers and stuff |[open](https://x.com/shubhstwt/status/1745136065860809206?s=20)
-  |9 Jan|Updated the Lazyvim theme to 0.2.0 Version with some improvements|[open](https://x.com/shubhstwt/status/1744637373584232840?s=20)
-  |8 Jan|Created a Lazyvim inspired VS Code theme |[open](https://x.com/shubhstwt/status/1744355236817277406?s=20)
-  |7 Jan|Day 37: Learned about npm modules, made a qrcode generator using npm modules. |[open](https://x.com/shubhstwt/status/1744008865497383312?s=20)
-  |4 Jan|Day 34 of #100daysofcode: Today I started learning Basics of Backend |[open](https://x.com/shubhstwt/status/1742957290435850535?s=20)
-  |3 Jan|Blog on Async programming |[open](https://x.com/shubhstwt/status/1742457261455495174?s=20)
-  |2 Jan|Day 33 of #100daysofcode: Completed easy, medium and hard assignments for week 2 of cohort | [open](https://x.com/shubhstwt/status/1742415468315672946?s=20)
-  |1 Jan|Day 32 of #100daysofcode: Reading and writing to the files using Nodejs Modules 🧵|[open](https://x.com/shubhstwt/status/1741871001863119343?s=20)
+  |09 Jan|Updated the Lazyvim theme to 0.2.0 Version with some improvements|[open](https://x.com/shubhstwt/status/1744637373584232840?s=20)
+  |08 Jan|Created a Lazyvim inspired VS Code theme |[open](https://x.com/shubhstwt/status/1744355236817277406?s=20)
+  |07 Jan|Day 37: Learned about npm modules, made a qrcode generator using npm modules. |[open](https://x.com/shubhstwt/status/1744008865497383312?s=20)
+  |04 Jan|Day 34 of #100daysofcode: Today I started learning Basics of Backend |[open](https://x.com/shubhstwt/status/1742957290435850535?s=20)
+  |03 Jan|Blog on Async programming |[open](https://x.com/shubhstwt/status/1742457261455495174?s=20)
+  |02 Jan|Day 33: Completed easy, medium and hard assignments for week 2 of cohort | [open](https://x.com/shubhstwt/status/1742415468315672946?s=20)
+  |01 Jan|Day 32 of #100daysofcode: Reading and writing to the files using Nodejs Modules 🧵|[open](https://x.com/shubhstwt/status/1741871001863119343?s=20)
 
   ### Year 2023
   |Date| Description | Content Source Link |
