@@ -22,6 +22,7 @@
 
   |Date| Description | Source Link |
   |:--:|:-------------|:------------------:|
+  |03 Feb|Day 55: Databases, MongoDB, Mongoose and stuff|[open](https://x.com/shubhstwt/status/1753688505614758152?s=20)
   |30 Jan|Day 54: Created an API for user signin using express, jwt and zod|[open](https://x.com/shubhstwt/status/1752758978076115292?s=20)
   |28 Jan|Day 52 & 53: Learned about Fetch APIs, Hashing, Encryption, JSON web tokens|[open](https://x.com/shubhstwt/status/1752353414988853628?s=20)
   |27 Jan|Day 51: Global catches, custom middlewares, rate limiter for requests, etc.|[open](https://x.com/shubhstwt/status/1751661688984887551?s=20)
