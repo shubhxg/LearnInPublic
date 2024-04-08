@@ -11,6 +11,10 @@
 <div align="center">
   
   ![icons8-twitter-48](https://github.com/shubhsharma19/LearnInPublic/assets/69891912/399c0d7f-428b-48d6-a5f9-05895e3bc4d9)
+  ![icons8-twitterx-48](https://github.com/shubhxg/LearnInPublic/assets/69891912/3da74593-c72d-4d5f-a42c-2ffe2276c59d)
+  ![icons8-hashnode-48](https://github.com/shubhxg/LearnInPublic/assets/69891912/1688a7f8-5ea6-4585-9d4a-59187768e335)
+  ![icons8-linkedin-48](https://github.com/shubhxg/LearnInPublic/assets/69891912/94902c17-a8ed-4916-91ad-463b8881be4f)
+
   
 </div>
 
@@ -22,6 +26,10 @@
 
   |Date| Description | Source Link |
   |:--:|:-------------|:------------------:|
+  |8 Apr|Blog on Document Object Model Explanation|[read](https://shubhsharma19.hashnode.dev/easiest-explanation-for-dom)
+  |7 Apr|Got the Content Mod role on Dev.to Community ✨|[open](https://www.linkedin.com/posts/shubhsharma19_easiest-explanation-of-dom-even-a-6-year-activity-7182834769183875072-zlzU?utm_source=share&utm_medium=member_desktop)
+  |6 Apr|100daysofcode again, Day 3 and 4 here, learned about DOM manipulation|[open](https://x.com/shubhstwt/status/1776302339802145222)
+  |23 Mar|My VSCode theme crossed 500 downloads|[open](https://www.linkedin.com/posts/shubhsharma19_vscode-vscodetheme-theme-activity-7175872132948615171-KVw-?utm_source=share&utm_medium=member_desktop)
   |07 Feb|Good pratice about ENV files|[open](https://x.com/shubhstwt/status/1755126749137093015?s=20)
   |04 Feb|Day 57: CRUD API using JWT, Mongoose, etc|[open](https://x.com/shubhstwt/status/1754160761725989067?s=20)
   |03 Feb|Day 55, 56: Databases, MongoDB, Mongoose and stuff|[open](https://x.com/shubhstwt/status/1753688505614758152?s=20)
